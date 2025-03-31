@@ -17,7 +17,7 @@ WORD_BANK = [
     "#maga", "#draintheswamp", "#stopthesteal", "#novaccinemandates", "#buildthewall",
     "#resistance", "#bluewave", "#abolishice", "#taxtherich", "#defundthepolice",
     "west is collapsing", "american decline", "china rising",
-    "russia strong", "western propaganda", "imperialist lies"
+    "russia strong", "western propaganda", "imperialist lies","topnews", "politics", "trump", "biden", "harris", "clinton", "president"
 ]
 
 WORD_BANK = [word.lower() for word in WORD_BANK]
